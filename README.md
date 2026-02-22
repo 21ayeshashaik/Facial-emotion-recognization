@@ -1,5 +1,5 @@
 
-# DeepFER: Facial Emotion Recognition using Deep Learning 😄😢😠
+# DeepFER: Facial Emotion Recognition using Deep Learning
 
 > A deep learning-based system to classify facial expressions into basic human emotions using Convolutional Neural Networks (CNNs).
 
